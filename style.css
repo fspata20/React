@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h3 {
+    color: rgb(45, 45, 45);
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h4 {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #888;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  img{
+    margin-bottom: 20px;
+  }
+  button{
+    border: 20em;
+  }
+  button:hover{
+    background-color: #888;
+    color: rgb(255, 255, 255);
+  }
+  
